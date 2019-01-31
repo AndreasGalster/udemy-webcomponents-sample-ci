@@ -1,5 +1,5 @@
 TN:
-SF:/mnt/c/_udemy_courses/webcomponents/3_testing/3_4_karma_testing_setup/end/src/app-shell.js
+SF:/mnt/c/_udemy_courses/webcomponents-sample-ci/src/app-shell.js
 FN:8,(anonymous_0)
 FN:13,(anonymous_1)
 FN:16,(anonymous_2)
@@ -38,7 +38,7 @@ BRF:2
 BRH:1
 end_of_record
 TN:
-SF:/mnt/c/_udemy_courses/webcomponents/3_testing/3_4_karma_testing_setup/end/src/profile-card.js
+SF:/mnt/c/_udemy_courses/webcomponents-sample-ci/src/profile-card.js
 FN:5,(anonymous_0)
 FN:10,(anonymous_1)
 FN:17,(anonymous_2)
@@ -74,7 +74,7 @@ BRF:6
 BRH:6
 end_of_record
 TN:
-SF:/mnt/c/_udemy_courses/webcomponents/3_testing/3_4_karma_testing_setup/end/src/profile-cards-animator.js
+SF:/mnt/c/_udemy_courses/webcomponents-sample-ci/src/profile-cards-animator.js
 FN:4,(anonymous_0)
 FN:7,(anonymous_1)
 FN:10,(anonymous_2)
@@ -103,7 +103,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/mnt/c/_udemy_courses/webcomponents/3_testing/3_4_karma_testing_setup/end/src/profile-dialog.js
+SF:/mnt/c/_udemy_courses/webcomponents-sample-ci/src/profile-dialog.js
 FN:5,(anonymous_0)
 FN:11,(anonymous_1)
 FN:15,(anonymous_2)
@@ -146,7 +146,7 @@ BRF:6
 BRH:6
 end_of_record
 TN:
-SF:/mnt/c/_udemy_courses/webcomponents/3_testing/3_4_karma_testing_setup/end/src/shared-styles.js
+SF:/mnt/c/_udemy_courses/webcomponents-sample-ci/src/shared-styles.js
 FNF:0
 FNH:0
 DA:1,1
@@ -158,7 +158,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/mnt/c/_udemy_courses/webcomponents/3_testing/3_4_karma_testing_setup/end/src/template-renderer.js
+SF:/mnt/c/_udemy_courses/webcomponents-sample-ci/src/template-renderer.js
 FN:2,(anonymous_0)
 FN:7,(anonymous_1)
 FNF:2
@@ -184,7 +184,7 @@ BRF:8
 BRH:8
 end_of_record
 TN:
-SF:/mnt/c/_udemy_courses/webcomponents/3_testing/3_4_karma_testing_setup/end/test/_mocks.js
+SF:/mnt/c/_udemy_courses/webcomponents-sample-ci/test/_mocks.js
 FNF:0
 FNH:0
 DA:1,1
