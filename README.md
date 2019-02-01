@@ -1,5 +1,5 @@
 # udemy-webcomponents-course CI sample
-This contains the sample setup of Continuous Integration via Circle CI for [Udemy course on webcomponents with lit-html & redux](https://www.udemy.com/webcomponents-apps). 
+This contains the sample setup of Continuous Integration via Circle CI for [Udemy course on webcomponents with lit-html & redux](https://www.udemy.com/webcomponents-apps). Check out the [finished-ci-setup branch](https://github.com/AndreasGalster/udemy-webcomponents-sample-ci/tree/finished-ci-setup) for the final end result.
 
 **At the end of the testing chapter you'll end up with:**
 
