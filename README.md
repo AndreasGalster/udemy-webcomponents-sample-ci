@@ -9,4 +9,4 @@ This contains the sample setup of Continuous Integration via Circle CI for [Udem
 - Slack notifications for failing and fixed tests
 - Status badges on your repo
 
-You are free to follow this course without buying the course on Udemy, each folder contains a readme with instructions. However, I appreciate the support, you can buy the course [at a discounted price of $11.99 via this promo link](https://www.udemy.com/webcomponents-apps/?couponCode=GITHUB2). Buying this course helps me support myself and enables me to add additional chapters to it.
+You are free to follow this course without buying the course on Udemy, each folder contains a readme with instructions. However, I appreciate the support, you can buy the course [at a discounted price of $9.99 via this promo link](https://www.udemy.com/webcomponents-apps/?couponCode=GITHUB2). Buying this course helps me support myself and enables me to add additional chapters to it.
