@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/AndreasGalster/udemy-webcomponents-sample-ci/tree/finished-ci-setup.svg?style=shield)](https://circleci.com/gh/AndreasGalster/udemy-webcomponents-sample-ci/tree/finished-ci-setup)
+
 # udemy-webcomponents-course CI sample
 This contains the sample setup of Continuous Integration via Circle CI for [Udemy course on webcomponents with lit-html & redux](https://www.udemy.com/webcomponents-apps). 
 
