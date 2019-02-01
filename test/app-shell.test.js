@@ -8,10 +8,6 @@ import { profileCardData, people } from './_mocks';
 chai.use(chaiDomEquals);
 
 describe('<app-shell>', () => {
-	it('is a bogus test', async () => {
-		expect(true).to.equal(false);
-	});
-
 	it('has a empty default people prop', async () => {
 		const el = await fixture('<app-shell></app-shell>');
 		expect(el.people).to.deep.equal([]);
